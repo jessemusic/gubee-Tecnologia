@@ -1388,3 +1388,189 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY Activator 1 0 2021-09-03 12:28:15.453
 !MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-09-03 17:57:08.724
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-09-03 17:59:19.693
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 17:59:21.675
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:02:11.876
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:02:12.841
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:06:52.532
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:06:53.334
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-09-03 18:09:15.439
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-09-03 18:09:17.925
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:09:18.620
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:15:38.364
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:15:39.121
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:16:04.556
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:16:05.274
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:18:38.031
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:18:38.912
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:19:38.214
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:19:38.889
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:20:42.139
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:20:42.847
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:23:09.038
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:23:09.716
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:24:05.361
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:24:06.015
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:28:19.426
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:28:20.058
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:30:23.341
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:30:24.135
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:31:57.808
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:31:58.464
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:32:52.797
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:32:53.455
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:33:05.064
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:33:05.757
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:33:28.571
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:33:29.440
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:37:47.092
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:37:47.731
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:41:36.318
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:41:36.999
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:45:04.839
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:45:05.532
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:48:48.305
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:48:49.014
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:54:18.000
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 18:54:18.643
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:07:27.118
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:07:27.974
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:22:32.427
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:22:33.278
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:24:06.839
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:24:07.670
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:24:48.473
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:24:49.173
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:30:08.672
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:30:09.483
+!MESSAGE Has main method computation for project 'gubeeTecnologia'

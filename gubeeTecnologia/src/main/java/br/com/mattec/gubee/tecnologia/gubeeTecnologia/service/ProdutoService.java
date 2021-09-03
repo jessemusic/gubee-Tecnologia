@@ -6,7 +6,9 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import br.com.mattec.gubee.tecnologia.gubeeTecnologia.DTO.ProdutoDTO;
 import br.com.mattec.gubee.tecnologia.gubeeTecnologia.entity.Produto;
+import br.com.mattec.gubee.tecnologia.gubeeTecnologia.mapper.ProdutoMapper;
 import br.com.mattec.gubee.tecnologia.gubeeTecnologia.repository.ProdutoRepository;
 
 @Service
@@ -14,9 +16,14 @@ public class ProdutoService {
 	
 	@Autowired
 	private ProdutoRepository produtoRepository;
+	@Autowired
+	private ProdutoMapper produtoMapper;
 	
-	public List<Produto> findAll(){
-		return produtoRepository.findAll();
+	
+	
+	
+	public List<ProdutoDTO> findAll(){
+		return  this.produtoMapper.converter(this.produtoRepository.findAll());
 	}
 	
 	public Produto findById(Long id){
@@ -24,6 +31,13 @@ public class ProdutoService {
 		return produto.orElse(null);
 		
 	}
+	
+	public List<ProdutoDTO> findByNome(List<String> nome){
+		return  this.produtoMapper.converter(this.produtoRepository.findByNomeIn(nome));
+	}
+
+	
+	
 	
 
 

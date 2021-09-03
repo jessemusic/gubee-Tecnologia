@@ -1,8 +1,6 @@
-package br.com.mattec.gubee.tecnologia.gubeeTecnologia.controller.DTO;
+package br.com.mattec.gubee.tecnologia.gubeeTecnologia.DTO;
 
 import java.time.LocalDateTime;
-import java.util.List;
-import java.util.stream.Collectors;
 
 import br.com.mattec.gubee.tecnologia.gubeeTecnologia.entity.Produto;
 
@@ -23,45 +21,54 @@ public class ProdutoDTO {
 		this.dataCriacao = produto.getDataCriacao();
 		this.tecnologiaUtilizada = produto.getTecnologiaUtilizada();
 	}
-	
-	
-
-	public String getTecnologiaUtilizada() {
-		return tecnologiaUtilizada;
-	}
-
-
-
+  public ProdutoDTO() {
+  }
 	public Long getId() {
 		return id;
 	}
 
+	public void setId(Long id) {
+		this.id = id;
+	}
 
 	public String getNome() {
 		return nome;
 	}
 
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
 
 	public String getDecricao() {
 		return decricao;
 	}
 
+	public void setDecricao(String decricao) {
+		this.decricao = decricao;
+	}
 
 	public String getMecardoAlvo() {
 		return mecardoAlvo;
 	}
 
+	public void setMecardoAlvo(String mecardoAlvo) {
+		this.mecardoAlvo = mecardoAlvo;
+	}
 
 	public LocalDateTime getDataCriacao() {
 		return dataCriacao;
 	}
 
-
-	public static List<ProdutoDTO> converter(List<Produto> produtos) {
-		
-		return produtos.stream().map(ProdutoDTO::new).collect(Collectors.toList());
+	public void setDataCriacao(LocalDateTime dataCriacao) {
+		this.dataCriacao = dataCriacao;
 	}
-	
-	
+
+	public String getTecnologiaUtilizada() {
+		return tecnologiaUtilizada;
+	}
+
+	public void setTecnologiaUtilizada(String tecnologiaUtilizada) {
+		this.tecnologiaUtilizada = tecnologiaUtilizada;
+	}
 
 }
