@@ -972,3 +972,4 @@
 2021-09-03 02:50:57,403 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-03 02:50:57,403 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-09-03 02:50:57,403 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-03 11:23:40,749 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
