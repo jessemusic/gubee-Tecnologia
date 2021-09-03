@@ -1,0 +1,13 @@
+package br.com.mattec.gubee.tecnologia.gubeeTecnologia.controller.DTO;
+
+import java.time.LocalDateTime;
+
+public class ProdutoDTO {
+	
+	private Long id;
+	private String nome;
+	private String decricao;
+	private String mecardoAlvo;
+	private LocalDateTime dataCriacao;
+
+}

@@ -1,0 +1,5 @@
+
+INSERT INTO TOPICO(nome, decricao,mecardoAlvo) VALUES('Spring Boot', 'FrameWork para desenvolvimento', 'Programadores em geral','2021-09-02T08:11:51.2789887');
+INSERT INTO TOPICO(nome, decricao,mecardoAlvo) VALUES('JPA', 'FrameWork para desenvolvimento', 'Programadores em geral','2021-09-02T08:11:51.2789887');
+INSERT INTO TOPICO(nome, decricao,mecardoAlvo) VALUES('Mysql', 'Banco de dados', 'Programadores em geral','2021-09-02T08:11:51.2789887');
+INSERT INTO TOPICO(nome, decricao,mecardoAlvo) VALUES('Oracle Code', 'Prioritizing the health and safety of our attendees','Programadores em geral','2021-09-02T08:11:51.2789887');

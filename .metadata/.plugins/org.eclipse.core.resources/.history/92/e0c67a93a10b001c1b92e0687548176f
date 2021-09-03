@@ -1,0 +1,64 @@
+package br.com.mattec.gubee.tecnologia.gubeeTecnologia.model;
+
+import java.util.Objects;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
+
+@Entity
+public class TecnologiaUtilizada {
+	
+	@Id @ GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	
+	@OneToMany
+	private String nomeTecnologia;
+	
+	public TecnologiaUtilizada() {
+	}
+
+	public TecnologiaUtilizada(String nomeTecnologia) {
+		super();
+		this.nomeTecnologia = nomeTecnologia;
+	}
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	public String getNomeTecnologia() {
+		return nomeTecnologia;
+	}
+
+	public void setNomeTecnologia(String nomeTecnologia) {
+		this.nomeTecnologia = nomeTecnologia;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(id);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		TecnologiaUtilizada other = (TecnologiaUtilizada) obj;
+		return Objects.equals(id, other.id);
+	}
+
+	
+
+	
+}

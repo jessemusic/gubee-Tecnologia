@@ -1,0 +1,13 @@
+package br.com.mattec.gubee.tecnologia.gubeeTecnologia.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import br.com.mattec.gubee.tecnologia.gubeeTecnologia.model.Produto;
+
+
+public interface ProdutoRepository extends JpaRepository<Produto, Long> {
+
+	List<Produto> findByProdutonomeTecnologia(String nomeCurso);
+}

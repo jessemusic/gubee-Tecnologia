@@ -1,0 +1,5 @@
+
+INSERT INTO PRODUTO(nome, decricao,mecardo_alvo,data_criacao) VALUES('Spring Boot', 'FrameWork para desenvolvimento', 'Programadores em geral','2021-09-02T08:11:51.2789887');
+INSERT INTO PRODUTO(nome, decricao,mecardo_alvo,data_criacao) VALUES('JPA', 'FrameWork para desenvolvimento', 'Programadores em geral','2021-09-02T08:11:51.2789887');
+INSERT INTO PRODUTO(nome, decricao,mecardo_alvo,data_criacao) VALUES('Mysql', 'Banco de dados', 'Programadores em geral','2021-09-02T08:11:51.2789887');
+INSERT INTO PRODUTO(nome, decricao,mecardo_alvo,data_criacao) VALUES('Oracle Code', 'Prioritizing the health and safety of our attendees','Programadores em geral','2021-09-02T08:11:51.2789887');
