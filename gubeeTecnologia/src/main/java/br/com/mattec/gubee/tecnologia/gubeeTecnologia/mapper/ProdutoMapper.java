@@ -19,9 +19,10 @@ public class ProdutoMapper {
 	ProdutoDTO	produtoDTO = new ProdutoDTO();
 	produtoDTO.setId(produto.getId());
 	produtoDTO.setDataCriacao(produto.getDataCriacao());
-	produtoDTO.setDecricao(produto.getDecricao());
-	produtoDTO.setMecardoAlvo(produto.getMecardoAlvo());
+	produtoDTO.setDescricao(produto.getDescricao());
+	produtoDTO.setMercardoAlvo(produto.getMercardoAlvo());
 	produtoDTO.setNome(produto.getNome());
+	produtoDTO.setTecnologiaUtilizada(produto.getTecnologiaUtilizada());
 	return produtoDTO;
 	
 		}

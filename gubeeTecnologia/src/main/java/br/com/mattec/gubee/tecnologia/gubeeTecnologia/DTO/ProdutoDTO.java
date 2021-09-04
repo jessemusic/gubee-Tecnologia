@@ -1,23 +1,21 @@
 package br.com.mattec.gubee.tecnologia.gubeeTecnologia.DTO;
 
-import java.time.LocalDateTime;
-
 import br.com.mattec.gubee.tecnologia.gubeeTecnologia.entity.Produto;
 
 public class ProdutoDTO {
 	
 	private Long id;
 	private String nome;
-	private String decricao;
-	private String mecardoAlvo;
-	private LocalDateTime dataCriacao;
+	private String descricao;
+	private String mercardoAlvo;
+	private String dataCriacao;
 	private String tecnologiaUtilizada;
 	
 	public ProdutoDTO(Produto produto) {
 		this.id =  produto.getId();
 		this.nome = produto.getNome();
-		this.decricao = produto.getDecricao();
-		this.mecardoAlvo = produto.getMecardoAlvo();
+		this.descricao = produto.getDescricao();
+		this.mercardoAlvo = produto.getMercardoAlvo();
 		this.dataCriacao = produto.getDataCriacao();
 		this.tecnologiaUtilizada = produto.getTecnologiaUtilizada();
 	}
@@ -39,27 +37,27 @@ public class ProdutoDTO {
 		this.nome = nome;
 	}
 
-	public String getDecricao() {
-		return decricao;
+	public String getDescricao() {
+		return descricao;
 	}
 
-	public void setDecricao(String decricao) {
-		this.decricao = decricao;
+	public void setDescricao(String descricao) {
+		this.descricao = descricao;
 	}
 
-	public String getMecardoAlvo() {
-		return mecardoAlvo;
+	public String getMercardoAlvo() {
+		return mercardoAlvo;
 	}
 
-	public void setMecardoAlvo(String mecardoAlvo) {
-		this.mecardoAlvo = mecardoAlvo;
+	public void setMercardoAlvo(String mercardoAlvo) {
+		this.mercardoAlvo = mercardoAlvo;
 	}
 
-	public LocalDateTime getDataCriacao() {
+	public String getDataCriacao() {
 		return dataCriacao;
 	}
 
-	public void setDataCriacao(LocalDateTime dataCriacao) {
+	public void setDataCriacao(String dataCriacao) {
 		this.dataCriacao = dataCriacao;
 	}
 

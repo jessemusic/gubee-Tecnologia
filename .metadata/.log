@@ -1574,3 +1574,668 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-09-03 19:30:09.483
 !MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:51:48.161
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 19:51:48.926
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 20:13:31.390
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 20:13:32.021
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 20:16:29.202
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 20:16:29.844
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 20:18:38.986
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 20:18:39.668
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 20:19:45.709
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 20:19:46.458
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:09:29.981
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:09:30.901
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:42:13.623
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:42:14.287
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:44:37.139
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:44:37.768
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:47:04.567
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:47:05.263
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:47:46.780
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 22:47:47.416
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 23:22:00.886
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 23:22:01.519
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 23:23:39.772
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 23:23:40.428
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 23:25:10.697
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-03 23:25:11.338
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 23:25:12.398
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.mElbIdPF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 23:25:12.402
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.mElbIdPF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 23:25:12.404
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-03 23:25:12.407
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.mElbIdPF => OK
+!SESSION 2021-09-04 08:12:21.714 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-09-04 08:13:48.476
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-04 08:13:48.476
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@66ab088c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d01a2eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:14.989
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:14.995
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1836d828[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=974)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:15.055
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:15.206
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-09-04 08:14:21.147
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-04 08:14:26.383
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jmc_c'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.012
+!MESSAGE Boot LS startup time from start to initialized: 36917ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.687
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.kvRUvAASisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.701
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.711
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.714
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.714
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.715
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.kvRUvAAS => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.869
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.880
+!MESSAGE buffering callback sts4.classpath.kvRUvAAS gubeeTecnologia false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:52.881
+!MESSAGE executing callback sts4.classpath.kvRUvAAS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 08:14:54.405
+!MESSAGE executing callback sts4.classpath.kvRUvAAS SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-09-04 08:27:40.641
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 08:27:43.167
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 08:28:03.034
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 08:55:32.240
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 08:55:32.991
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 10:07:58.006
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 10:08:05.158
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.ui 2 2 2021-09-04 10:08:06.859
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-09-04 13:07:49.383 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-09-04 13:08:37.533
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-04 13:08:37.534
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e033801,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@58e4aa67,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:08:49.771
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:08:49.773
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1836d828[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=974)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:08:49.792
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:08:49.882
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-09-04 13:08:54.632
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-04 13:08:55.124
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jmc_c'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:09.949
+!MESSAGE Boot LS startup time from start to initialized: 20140ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.161
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ozYnmiOGisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.167
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.172
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.173
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.174
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ozYnmiOG => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.175
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.206
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.234
+!MESSAGE buffering callback sts4.classpath.ozYnmiOG gubeeTecnologia false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.235
+!MESSAGE executing callback sts4.classpath.ozYnmiOG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:09:10.916
+!MESSAGE executing callback sts4.classpath.ozYnmiOG SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-09-04 13:25:57.448
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-09-04 13:26:26.431
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:26:36.241
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:36.369
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:36.384
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:36.396
+!MESSAGE buffering callback sts4.classpath.ozYnmiOG gubeeTecnologia false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:36.397
+!MESSAGE executing callback sts4.classpath.ozYnmiOG 1 batched events
+
+!ENTRY Activator 1 0 2021-09-04 13:26:37.402
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:37.599
+!MESSAGE executing callback sts4.classpath.ozYnmiOG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:38.877
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:38.894
+!MESSAGE classpath=94 entries
+
+!ENTRY Activator 1 0 2021-09-04 13:26:38.895
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:38.905
+!MESSAGE buffering callback sts4.classpath.ozYnmiOG gubeeTecnologia false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:38.906
+!MESSAGE executing callback sts4.classpath.ozYnmiOG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:26:39.277
+!MESSAGE executing callback sts4.classpath.ozYnmiOG SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-09-04 13:26:39.763
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:26:40.905
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:26:43.102
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:26:43.434
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:26:48.980
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:26:49.765
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:27:07.273
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:27:07.281
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:27:07.294
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:27:07.309
+!MESSAGE buffering callback sts4.classpath.ozYnmiOG gubeeTecnologia false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:27:07.310
+!MESSAGE executing callback sts4.classpath.ozYnmiOG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-04 13:27:07.417
+!MESSAGE executing callback sts4.classpath.ozYnmiOG SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-09-04 13:27:08.307
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:27:09.199
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:27:09.738
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:27:59.458
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:28:00.338
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-09-04 13:30:39.182
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-09-04 13:33:39.559
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:33:40.325
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:36:47.489
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:36:48.232
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:39:36.160
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:39:37.002
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:39:42.358
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:39:43.014
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:39:52.665
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:39:53.309
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:44:02.686
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:44:03.383
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:45:18.053
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:45:18.707
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:45:28.069
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:45:28.766
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:46:18.684
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:48:41.798
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:48:42.501
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.ui 4 0 2021-09-04 13:49:01.437
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalStateException: must specify at least one linked position
+	at org.eclipse.jface.text.link.LinkedModeModel.enforceNotEmpty(LinkedModeModel.java:530)
+	at org.eclipse.jface.text.link.LinkedModeModel.install(LinkedModeModel.java:484)
+	at org.eclipse.jface.text.link.LinkedModeModel.forceInstall(LinkedModeModel.java:441)
+	at org.eclipse.jdt.internal.ui.viewsupport.LinkedProposalModelPresenter.enterLinkedMode(LinkedProposalModelPresenter.java:105)
+	at org.eclipse.jdt.internal.ui.text.correction.proposals.LinkedCorrectionProposal.performChange(LinkedCorrectionProposal.java:161)
+	at org.eclipse.jdt.ui.text.java.correction.CUCorrectionProposal.apply(CUCorrectionProposal.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.apply(AbstractAnnotationHover.java:561)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.access$1(AbstractAnnotationHover.java:538)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl$4.widgetSelected(AbstractAnnotationHover.java:532)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendSelectionEvent(Widget.java:1084)
+	at org.eclipse.swt.widgets.Link.wmNotifyChild(Link.java:713)
+	at org.eclipse.swt.widgets.Control.wmNotify(Control.java:5814)
+	at org.eclipse.swt.widgets.Composite.wmNotify(Composite.java:1954)
+	at org.eclipse.swt.widgets.Control.WM_NOTIFY(Control.java:5382)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4816)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4938)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Link.callWindowProc(Link.java:161)
+	at org.eclipse.swt.widgets.Widget.wmLButtonUp(Widget.java:1970)
+	at org.eclipse.swt.widgets.Control.WM_LBUTTONUP(Control.java:5195)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4797)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4938)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-09-04 13:51:14.228
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:51:14.932
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:51:21.362
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:51:22.174
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:53:14.278
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:53:14.894
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:56:41.989
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 13:56:42.732
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:00:57.931
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:00:58.514
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:05:34.468
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:05:35.104
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-09-04 14:05:44.233
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-09-04 14:05:58.741
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:05:59.526
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:06:17.328
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:06:18.046
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:07:33.151
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:07:33.306
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY org.eclipse.jface 2 0 2021-09-04 14:07:37.189
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-04 14:07:37.189
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ff04f38,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@19f792dc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-09-04 14:08:16.111
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:08:16.258
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:15:20.315
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:15:20.945
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:20:33.189
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:20:34.138
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:20:34.321
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:22:54.368
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:22:55.253
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:22:55.424
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:23:46.453
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:23:46.596
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:25:05.340
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:25:06.018
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:27:11.017
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:27:11.687
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:32:35.046
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 14:32:35.693
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 19:23:05.486
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 19:23:06.140
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 19:23:40.976
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 19:23:41.615
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 19:24:40.654
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 19:24:41.304
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 19:25:21.615
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
+
+!ENTRY Activator 1 0 2021-09-04 19:25:22.281
+!MESSAGE Has main method computation for project 'gubeeTecnologia'
