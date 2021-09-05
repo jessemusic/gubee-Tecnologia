@@ -16,6 +16,7 @@ public class ProdutoService {
 	
 	@Autowired
 	private ProdutoRepository produtoRepository;
+	
 	@Autowired
 	private ProdutoMapper produtoMapper;
 	
@@ -35,10 +36,19 @@ public class ProdutoService {
 	public List<ProdutoDTO> findByNome(List<String> nome){
 		return  this.produtoMapper.converter(this.produtoRepository.findByNomeIn(nome));
 	}
+	
+//	public Produto insert(Produto produto) {
+//		return produtoRepository.insert(produto);
+//	}
 
-	
-	
-	
-
+	public Produto fromDTO(ProdutoDTO objetoDTO) {
+		return new Produto( 
+				objetoDTO.getId(),
+				objetoDTO.getNome(),
+				objetoDTO.getDescricao(),
+				objetoDTO.getMercadoAlvo(),
+				objetoDTO.getTecnologiaUtilizada());
+		
+	}
 
 }

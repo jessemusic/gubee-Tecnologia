@@ -3,24 +3,23 @@ package br.com.mattec.gubee.tecnologia.gubeeTecnologia.DTO;
 import br.com.mattec.gubee.tecnologia.gubeeTecnologia.entity.Produto;
 
 public class ProdutoDTO {
-	
+
 	private Long id;
 	private String nome;
 	private String descricao;
-	private String mercardoAlvo;
-	private String dataCriacao;
+	private String mercadoAlvo;
 	private String tecnologiaUtilizada;
 	
 	public ProdutoDTO(Produto produto) {
 		this.id =  produto.getId();
 		this.nome = produto.getNome();
 		this.descricao = produto.getDescricao();
-		this.mercardoAlvo = produto.getMercardoAlvo();
-		this.dataCriacao = produto.getDataCriacao();
+		this.mercadoAlvo = produto.getMercadoAlvo();
 		this.tecnologiaUtilizada = produto.getTecnologiaUtilizada();
 	}
-  public ProdutoDTO() {
-  }
+	public ProdutoDTO() {
+	}
+	
 	public Long getId() {
 		return id;
 	}
@@ -45,21 +44,14 @@ public class ProdutoDTO {
 		this.descricao = descricao;
 	}
 
-	public String getMercardoAlvo() {
-		return mercardoAlvo;
+	public String getMercadoAlvo() {
+		return mercadoAlvo;
 	}
 
-	public void setMercardoAlvo(String mercardoAlvo) {
-		this.mercardoAlvo = mercardoAlvo;
+	public void setMercadoAlvo(String mercadoAlvo) {
+		this.mercadoAlvo = mercadoAlvo;
 	}
 
-	public String getDataCriacao() {
-		return dataCriacao;
-	}
-
-	public void setDataCriacao(String dataCriacao) {
-		this.dataCriacao = dataCriacao;
-	}
 
 	public String getTecnologiaUtilizada() {
 		return tecnologiaUtilizada;

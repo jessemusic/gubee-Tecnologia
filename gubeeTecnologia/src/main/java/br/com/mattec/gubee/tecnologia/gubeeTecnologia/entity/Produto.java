@@ -29,7 +29,7 @@ public class Produto {
 	@Column(name = "descricao", nullable = false)
 	private String descricao;
 	@Column(name = "mercado_alvo", nullable = false)
-	private String mercardoAlvo;
+	private String mercadoAlvo;
 	@Column(name = "tecnologia_utilizada", nullable = false)
 	private String tecnologiaUtilizada;
 	@Column(name = "senha", nullable = true)

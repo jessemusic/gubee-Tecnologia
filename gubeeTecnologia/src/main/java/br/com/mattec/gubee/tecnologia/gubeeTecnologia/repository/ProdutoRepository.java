@@ -12,6 +12,12 @@ public interface ProdutoRepository extends JpaRepository<Produto, Long> {
 	
 	
 	List<Produto> findByNomeIn(List<String> nome);
+	
+	//Produto insert(Produto produto);
+	
+//	Optional<Produto> deveAtualizarUmProdutoNoBancoDeDados(Long id);
+	
+	
 		
 	
 }

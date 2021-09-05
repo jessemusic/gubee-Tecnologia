@@ -18,9 +18,8 @@ public class ProdutoMapper {
 	public ProdutoDTO mapperTwo(Produto produto) {
 	ProdutoDTO	produtoDTO = new ProdutoDTO();
 	produtoDTO.setId(produto.getId());
-	produtoDTO.setDataCriacao(produto.getDataCriacao());
 	produtoDTO.setDescricao(produto.getDescricao());
-	produtoDTO.setMercardoAlvo(produto.getMercardoAlvo());
+	produtoDTO.setMercadoAlvo(produto.getMercadoAlvo());
 	produtoDTO.setNome(produto.getNome());
 	produtoDTO.setTecnologiaUtilizada(produto.getTecnologiaUtilizada());
 	return produtoDTO;
