@@ -10,14 +10,15 @@ public class ProdutoDTO {
 	private String mercadoAlvo;
 	private String tecnologiaUtilizada;
 	
-	public ProdutoDTO(Produto produto) {
-		this.id =  produto.getId();
-		this.nome = produto.getNome();
-		this.descricao = produto.getDescricao();
-		this.mercadoAlvo = produto.getMercadoAlvo();
-		this.tecnologiaUtilizada = produto.getTecnologiaUtilizada();
-	}
 	public ProdutoDTO() {
+	}
+
+	public ProdutoDTO(Produto produto) {
+		id =  produto.getId();
+		nome = produto.getNome();
+		descricao = produto.getDescricao();
+		mercadoAlvo = produto.getMercadoAlvo();
+		tecnologiaUtilizada = produto.getTecnologiaUtilizada();
 	}
 	
 	public Long getId() {

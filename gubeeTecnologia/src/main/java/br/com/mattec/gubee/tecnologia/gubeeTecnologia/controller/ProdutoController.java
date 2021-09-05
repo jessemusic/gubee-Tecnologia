@@ -1,6 +1,5 @@
 package br.com.mattec.gubee.tecnologia.gubeeTecnologia.controller;
 
-import java.net.URI;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import br.com.mattec.gubee.tecnologia.gubeeTecnologia.DTO.ProdutoDTO;
 import br.com.mattec.gubee.tecnologia.gubeeTecnologia.entity.Produto;
@@ -40,14 +38,11 @@ public class ProdutoController {
 				.findByNome(nome)) : ResponseEntity.badRequest().build();
 	}
 	
-//	@PostMapping()
-//	public ResponseEntity<Void>  insert(@RequestBody ProdutoDTO objetoDTO){	
-//		Produto produto = produtoService.fromDTO(objetoDTO);
-//		produto = produtoService.insert(produto);
-//		URI uri = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(produto.getId()).toUri();
-//		return ResponseEntity.created(uri).build();
-//	}
-//	
+	@PostMapping()
+	public ResponseEntity<Produto>  insert(@RequestBody ProdutoDTO objetoDTO){	
+		return ResponseEntity.ok().body(this.produtoService.insert(objetoDTO));
+	}
+	
 	
 
 	

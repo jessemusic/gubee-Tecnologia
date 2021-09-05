@@ -37,13 +37,12 @@ public class ProdutoService {
 		return  this.produtoMapper.converter(this.produtoRepository.findByNomeIn(nome));
 	}
 	
-//	public Produto insert(Produto produto) {
-//		return produtoRepository.insert(produto);
-//	}
+	public Produto insert(ProdutoDTO retProduto) {
+		return produtoRepository.save(this.fromDTO(retProduto));
+	}
 
 	public Produto fromDTO(ProdutoDTO objetoDTO) {
-		return new Produto( 
-				objetoDTO.getId(),
+		return new Produto(
 				objetoDTO.getNome(),
 				objetoDTO.getDescricao(),
 				objetoDTO.getMercadoAlvo(),

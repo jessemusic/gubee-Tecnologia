@@ -20,6 +20,13 @@ import lombok.NoArgsConstructor;
 @Table(name="produto")
 public class Produto {
 	
+	
+	public Produto( String nome2, String descricao2, String mercadoAlvo2, String tecnologiaUtilizada2) {
+		this.nome = nome2;
+		this.descricao= descricao2;
+		this.mercadoAlvo = mercadoAlvo2;
+		this.tecnologiaUtilizada = tecnologiaUtilizada2;
+	}
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
