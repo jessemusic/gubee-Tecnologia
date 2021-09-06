@@ -9,7 +9,5 @@ import br.com.mattec.gubee.tecnologia.gubeeTecnologia.entity.Produto;
 
 @Repository
 public interface ProdutoRepository extends JpaRepository<Produto, Long> {
-	
-	
 	List<Produto> findByNomeIn(List<String> nome);
 }

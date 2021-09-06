@@ -2215,3 +2215,137 @@
 2021-09-05 01:21:53,771 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-05 01:21:53,771 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-09-05 01:21:53,771 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:13:59,386 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-05 12:24:25,620 [Worker-6: Launching gubeeTecnologia - GubeeTecnologiaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:24:25,620 [Worker-6: Launching gubeeTecnologia - GubeeTecnologiaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:24:25,628 [Worker-6: Launching gubeeTecnologia - GubeeTecnologiaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:24:25,680 [Worker-6: Launching gubeeTecnologia - GubeeTecnologiaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:24:25,690 [Worker-6: Launching gubeeTecnologia - GubeeTecnologiaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:24:25,690 [Worker-6: Launching gubeeTecnologia - GubeeTecnologiaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:24:25,691 [Worker-6: Launching gubeeTecnologia - GubeeTecnologiaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:25:28,593 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:25:28,593 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:25:28,608 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:25:28,644 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:25:28,659 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:25:28,659 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:25:28,660 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:26:34,833 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:26:34,834 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:26:34,836 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:26:34,878 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:26:34,904 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:26:34,906 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:26:34,906 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:27:37,962 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:27:37,962 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:27:37,965 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:27:38,011 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:27:38,027 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:27:38,028 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:27:38,040 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:27:51,308 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:27:51,308 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:27:51,310 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:27:51,340 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:27:51,360 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:27:51,360 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:27:51,360 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:29:26,140 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:29:26,141 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:29:26,142 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:29:26,178 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:29:26,184 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:29:26,184 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:29:26,185 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:29:40,308 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:29:40,308 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:29:40,310 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:29:40,341 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:29:40,349 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:29:40,350 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:29:40,351 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:32:09,751 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:32:09,751 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:32:09,753 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:32:09,799 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:32:09,816 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:32:09,817 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:32:09,817 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:39:31,445 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:39:31,445 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:39:31,446 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:39:31,472 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:39:31,477 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:39:31,477 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:39:31,477 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:43:36,811 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:43:36,811 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:43:36,812 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:43:36,837 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:43:36,843 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:43:36,843 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:43:36,843 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:44:19,850 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:44:19,851 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:44:19,852 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:44:19,861 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:44:19,869 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:44:19,870 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:44:19,870 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:47:02,980 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:47:02,981 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:47:02,982 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:47:03,030 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:47:03,035 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:47:03,036 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:47:03,036 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:47:57,534 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:47:57,534 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:47:57,535 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:47:57,557 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:47:57,563 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:47:57,563 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:47:57,563 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:52:02,513 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:52:02,513 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:52:02,514 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:52:02,551 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:52:02,561 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:52:02,561 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:52:02,561 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 12:54:01,297 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:54:01,304 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:54:01,305 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:54:01,334 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 12:54:01,341 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 12:54:01,343 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 12:54:01,343 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 13:01:54,893 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 13:01:54,893 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 13:01:54,894 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 13:01:54,906 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 13:01:54,935 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 13:01:54,936 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 13:01:54,936 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 13:02:07,567 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 13:02:07,567 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 13:02:07,568 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 13:02:07,576 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 13:02:07,581 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 13:02:07,581 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 13:02:07,581 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 13:03:02,389 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 13:03:02,390 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 13:03:02,391 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 13:03:02,405 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 13:03:02,433 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 13:03:02,434 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 13:03:02,435 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources
+2021-09-05 13:10:28,096 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 13:10:28,097 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 13:10:28,098 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 13:10:28,123 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-05 13:10:28,127 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-05 13:10:28,127 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-05 13:10:28,127 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gubee-tecnologia\gubeeTecnologia\src\test\resources

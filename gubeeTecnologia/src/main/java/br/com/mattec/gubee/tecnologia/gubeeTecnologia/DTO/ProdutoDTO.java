@@ -1,18 +1,27 @@
 package br.com.mattec.gubee.tecnologia.gubeeTecnologia.DTO;
 
-import br.com.mattec.gubee.tecnologia.gubeeTecnologia.entity.Produto;
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
 
+import br.com.mattec.gubee.tecnologia.gubeeTecnologia.entity.Produto;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+@NoArgsConstructor
+@Getter
+@Setter
 public class ProdutoDTO {
 
 	private Long id;
+	@NotNull @NotEmpty
 	private String nome;
+	@NotNull @NotEmpty
 	private String descricao;
+	@NotNull @NotEmpty
 	private String mercadoAlvo;
+	@NotNull @NotEmpty
 	private String tecnologiaUtilizada;
 	
-	public ProdutoDTO() {
-	}
-
 	public ProdutoDTO(Produto produto) {
 		id =  produto.getId();
 		nome = produto.getNome();
@@ -21,45 +30,4 @@ public class ProdutoDTO {
 		tecnologiaUtilizada = produto.getTecnologiaUtilizada();
 	}
 	
-	public Long getId() {
-		return id;
-	}
-
-	public void setId(Long id) {
-		this.id = id;
-	}
-
-	public String getNome() {
-		return nome;
-	}
-
-	public void setNome(String nome) {
-		this.nome = nome;
-	}
-
-	public String getDescricao() {
-		return descricao;
-	}
-
-	public void setDescricao(String descricao) {
-		this.descricao = descricao;
-	}
-
-	public String getMercadoAlvo() {
-		return mercadoAlvo;
-	}
-
-	public void setMercadoAlvo(String mercadoAlvo) {
-		this.mercadoAlvo = mercadoAlvo;
-	}
-
-
-	public String getTecnologiaUtilizada() {
-		return tecnologiaUtilizada;
-	}
-
-	public void setTecnologiaUtilizada(String tecnologiaUtilizada) {
-		this.tecnologiaUtilizada = tecnologiaUtilizada;
-	}
-
 }

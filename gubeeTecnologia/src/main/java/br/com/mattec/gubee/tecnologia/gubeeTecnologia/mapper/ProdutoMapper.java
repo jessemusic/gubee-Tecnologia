@@ -24,5 +24,5 @@ public class ProdutoMapper {
 	produtoDTO.setTecnologiaUtilizada(produto.getTecnologiaUtilizada());
 	return produtoDTO;
 	
-		}
+	}
 }

@@ -19,18 +19,14 @@ public class ProdutoService {
 	
 	@Autowired
 	private ProdutoMapper produtoMapper;
-	
-	
-	
-	
+
 	public List<ProdutoDTO> findAll(){
 		return  this.produtoMapper.converter(this.produtoRepository.findAll());
 	}
 	
 	public Produto findById(Long id){
 		Optional<Produto> produto = produtoRepository.findById(id);
-		return produto.orElse(null);
-		
+		return produto.orElse(null);	
 	}
 	
 	public List<ProdutoDTO> findByNome(List<String> nome){
@@ -38,7 +34,20 @@ public class ProdutoService {
 	}
 	
 	public Produto insert(ProdutoDTO retProduto) {
+		retProduto.setId(null);// se o id chegar como null esse método vai entender que é para atualizar e não inserir
 		return produtoRepository.save(this.fromDTO(retProduto));
+	}
+	
+	public Produto update(ProdutoDTO retProduto) {
+		Optional<Produto> prod = produtoRepository.findById(retProduto.getId());
+		if(prod.isPresent()) {
+			prod.get().setNome(retProduto.getNome());
+			prod.get().setDescricao(retProduto.getDescricao());
+			prod.get().setMercadoAlvo(retProduto.getMercadoAlvo());
+			prod.get().setTecnologiaUtilizada(retProduto.getTecnologiaUtilizada());		
+		return	produtoRepository.save(prod.get());
+		}
+		return null;
 	}
 
 	public Produto fromDTO(ProdutoDTO objetoDTO) {
@@ -46,8 +55,13 @@ public class ProdutoService {
 				objetoDTO.getNome(),
 				objetoDTO.getDescricao(),
 				objetoDTO.getMercadoAlvo(),
-				objetoDTO.getTecnologiaUtilizada());
-		
+				objetoDTO.getTecnologiaUtilizada());	
 	}
 
+	public void delete(Long id) {
+		Optional<Produto> prod = produtoRepository.findById(id);
+		if(prod.isPresent()) {
+			produtoRepository.deleteById(id);
+		}
+	}
 }
